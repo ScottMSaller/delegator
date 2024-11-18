@@ -1,0 +1,6 @@
+.left-aligned-container {
+    display: flex;
+    justify-content: flex-start;
+    margin-left: 0px;
+  }
+  
